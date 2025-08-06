@@ -1,6 +1,6 @@
 # SugarSense-diabetes_prediction-
 # Project Overview:
-DiabetoPredict is a machine learning-based classification project that predicts whether a patient is likely to have diabetes. It uses the Logistic Regression algorithm on the Pima Indians Diabetes dataset. This project includes data cleaning, feature scaling, training, and evaluation.
+sugarsense is a machine learning-based classification project that predicts whether a patient is likely to have diabetes. It uses the Logistic Regression algorithm on the Pima Indians Diabetes dataset. This project includes data cleaning, feature scaling, training, and evaluation.
 
 # Dataset Used:
 The dataset diabetes.csv includes the following features:
